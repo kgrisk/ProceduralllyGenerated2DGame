@@ -10,7 +10,8 @@ MoonStar for [enemy sprites](https://opengameart.org/content/2d-game-character-p
 Alucard for [spaceship](https://opengameart.org/content/spaceship-2d).
 
 # Gameplay
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wp3dMId5Go8/0.jpg)](http://www.youtube.com/watch?v=Wp3dMId5Go8 "DeathHunter")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Wp3dMId5Go8/0.jpg)](http://www.youtube.com/watch?v=Wp3dMId5Go8 "ROBONAUT")
 
 https://youtu.be/Wp3dMId5Go8
 
