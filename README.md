@@ -3,7 +3,7 @@ Procedurallly generated side-scrolling game made with Unity game engine.
 
 # Acknowledgments
 Thanks :
-[gameart2d](https://www.gameart2d.com) for free  [SCI-FI PLATFORMER](https://www.gameart2d.com/free-sci-fi-platformer-tileset.html)  TILESET and [SCI-FI PLATFORMER](https://www.gameart2d.com/free-sci-fi-platformer-tileset.html).
+[gameart2d](https://www.gameart2d.com) for free  [SCI-FI PLATFORMER](https://www.gameart2d.com/free-sci-fi-platformer-tileset.html)  TILESET and [THE ROBOT](https://www.gameart2d.com/the-robot---free-sprites.html).
 
 MoonStar for [enemy sprites](https://opengameart.org/content/2d-game-character-pack-slim-version).
 
